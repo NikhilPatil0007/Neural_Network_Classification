@@ -1,0 +1,5 @@
+"# Neural Network Classification Projects" 
+"This repository contains three neural network classification projects:" 
+"- Linear Neural Network Classification" 
+"- Non-Linear Neural Network Classification" 
+"- Blobs Dataset Classification" 
